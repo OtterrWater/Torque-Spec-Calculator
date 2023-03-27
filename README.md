@@ -18,7 +18,7 @@
 
  **NOTE:**<br>
  Screw dia and Threads/in. must be EXACTLY stated from<br>
- Table 4 and Table 5 from astm_a574 document<br>
+ Table 4 and Table 5 from ASTM_A574__12.pdf document<br>
  *most are 3 decimal places and some are 4<br>
 
  **for HELP:**<br>
