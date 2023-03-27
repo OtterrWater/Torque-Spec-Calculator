@@ -26,6 +26,7 @@
 
 # About
 Made by Theresa Lee<br>
+Collaborated with Brayan Gonzalez<br>
 Last Update: 3/26/2023<br>
 Version: Python 3.10.4
 
