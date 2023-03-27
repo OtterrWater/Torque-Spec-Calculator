@@ -1,6 +1,10 @@
 #Made by Theresa Lee
-#Date: 3/26/2023
+#Collaborated with Brayan Gonzalez
+#Last Update: 3/26/2023
 #Version: Python 3.10.4
+
+#DO_NOT_TOUCH.txt data pulled from
+#'Standard Specification for Alloy Steel Socket-Head Cap Screws' by ASTM
 
 #HOW TO USE:--------------------------------------------------------------------------------------------------
 '''
