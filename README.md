@@ -4,7 +4,7 @@
  Torque Calculations:
  python ts_fsae.py -s [insert Screw size] -t [insert Threads/in.] -k [insert Torque Factor] -[np or p]
 
- s: Screw Diameter
+ s: Screw Diameter\n
  t: The number of threads
  k: Torque Factor
  np: Non-Permanent
