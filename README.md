@@ -24,7 +24,7 @@
  **for HELP:**<br>
  python ts_fsae.py -h
 
-#About
+# About
 Made by Theresa Lee<br>
 Last Update: 3/26/2023<br>
 Version: Python 3.10.4
